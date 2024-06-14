@@ -10,7 +10,7 @@
   Welcome to my personal portfolio website. Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 <p align="center">
-  <a href="https://github.com/mudeitsi/portfolio" target="_blank">Repository Link</a>
+  <a href="https://github.com/mudeitsi/mudeizi.dev" target="_blank">Repository Link</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/minayoesere/deploys" target="_blank">
