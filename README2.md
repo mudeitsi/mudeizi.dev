@@ -23,6 +23,7 @@
 
 ## 🚨 Forking this repo (please read!)
 
+This repo is attributed to the works of Brittany Chiang https://github.com/bchiang7/v4 
 You are welcome to fork this repository with attribution. Please link back to my [portfolio website](https://mudeizi.dev) and give proper credit. Thank you!
 
 ## 🛠 Installation & Set Up
